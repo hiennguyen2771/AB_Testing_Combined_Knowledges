@@ -19,3 +19,15 @@ Here are some key components and definitions related to AB testing:
 
 ![Description of the image](hinh1.png)
 
+In my second way, I will apply the completed step-by-step process for A/B Testing:
+- Probability: in which I will examine the data cleaning process, remove outliers, examine some analysis about the control and treatment group in our data 
+- A/B Testing:
+1. Assume under the null hypothesis, 𝑝𝑛𝑒𝑤 and 𝑝𝑜𝑙𝑑
+2. Use 5% Type I error rate
+3. Create sample to perform sampling distribution to show differences
+4. Compare results of hypothesis test with statsmodels.api z-test.
+- Regression Approach:
+1. Fit a regression model to see if there is a significant difference in feature based
+2. Find p-value and determine if value supports the null hypothesis or rejects the null in support of the alternative hypothesis.
+3. Add additional data, e.g. country data, to see if any impact is made on results.
+
