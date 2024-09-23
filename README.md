@@ -19,7 +19,7 @@ Here are some key components and definitions related to AB testing:
 
 ![Description of the image](hinh1.png)
 
-In my second way, I will apply the completed step-by-step process for A/B Testing:
+## In my second way, I will apply the completed step-by-step process for A/B Testing:
 - Probability: in which I will examine the data cleaning process, remove outliers, examine some analysis about the control and treatment group in our data 
 - A/B Testing:
 1. Assume under the null hypothesis, 𝑝𝑛𝑒𝑤 and 𝑝𝑜𝑙𝑑
