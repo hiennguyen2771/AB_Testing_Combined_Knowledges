@@ -10,3 +10,10 @@ Here are some key components and definitions related to AB testing:
 5) Hypothesis Testing: Hypothesis testing is a statistical method used to evaluate the validity of a hypothesis based on sample data. In AB testing, hypothesis testing is employed to determine whether the observed differences in performance metrics between the control and variation groups are statistically significant or if they could have occurred by random chance.
 6) Statistical Significance: Statistical significance indicates the likelihood that the observed differences between the control and variation groups are not due to random variation but rather reflect true differences in performance. It is typically determined using statistical tests such as t-tests, chi-square tests, or z-tests, with a significance level (alpha) set in advance (commonly 0.05).
 
+## In my first way, I will apply the knowledge of:
+# Normality testing with Shapiro-Wilk test, a statistical test used to assess the normality of a dataset
+# The Levene test is to assess the homogeneity of variances between two groups
+# The Mann-Whitney U test is to conduct a non-parametric test to compare the distributions of two independent samples
+# Parametric Test (If Normal)
+# Non-Parametric Test (If Not Normal)
+
