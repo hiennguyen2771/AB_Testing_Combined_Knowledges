@@ -17,3 +17,5 @@ Here are some key components and definitions related to AB testing:
 - Parametric Test (If Normal)
 - Non-Parametric Test (If Not Normal)
 
+![Description of the image](hinh1.png)
+
